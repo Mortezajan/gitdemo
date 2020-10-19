@@ -10,6 +10,14 @@ public class Cff extends Employee{
 		System.out.println("github kabul");	
 
        
+		
+		
+		System.out.println("this the boss from USA");	
+		
+		
+		
+		
+		
 	}
 
 }
